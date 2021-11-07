@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        120.6059593026581,
+                        16.56692524376889
+                    ],
+                    [
+                        120.619313383833,
+                        16.5684151009431
+                    ],
+                    [
+                        120.6375922232948,
+                        16.57056862231034
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "Labueg"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
